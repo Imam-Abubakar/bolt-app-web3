@@ -24,3 +24,14 @@
 ![Screen Shot 2022-05-17 at 5 19 30 AM](https://user-images.githubusercontent.com/54324954/168728314-e0f8470c-f240-4f23-8732-90cf45488b20.png)
 ### 5. VIEWING THE DATABASE TO CONFIRM THAT TRIP DETAILS WAS SAVED
 ![Screen Shot 2022-05-17 at 5 20 57 AM](https://user-images.githubusercontent.com/54324954/168728334-b43612fd-65f0-4d67-906e-c18bb7764966.png)
+
+
+## Project Info
+### Author
+Imam Abubakar
+
+### Version
+1.0.0
+
+### License
+This project is licensed under the MIT License
